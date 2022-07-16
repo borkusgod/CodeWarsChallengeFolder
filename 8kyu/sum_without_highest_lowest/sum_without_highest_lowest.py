@@ -1,6 +1,7 @@
 def sum_array(arr):
     # print(f'from input: {arr}')
     if arr is None:
+        print('This array is a None type and will be returned as 0')
         return 0
     if arr == []:
         return 0
@@ -44,7 +45,7 @@ print(sum_array(arr1))
 print(sum_array(arr2))
 print(sum_array(arr3))
 print(sum_array(arr4))
-print('======\n')
+print('\n')
 
 print('Test with none type arrs')
 print(sum_array(none_arr))
