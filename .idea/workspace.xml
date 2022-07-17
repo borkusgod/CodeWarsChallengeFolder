@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
-      <change afterPath="$PROJECT_DIR$/7kyu/round_to_closest_to_ten/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/round_to_closest_to_ten/round_to_closest_to_ten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/conv_string2num/conv_string2num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/conv_string2num/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/correct_char_mistakes/correct_char_mistakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/correct_char_mistakes/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/opposite_number/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/opposite_number/opposite_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658009438328</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658022338327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658022338327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
