@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
-      <change afterPath="$PROJECT_DIR$/7kyu/youre_square/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/youre_square/youre_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/descending_order/descending_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/descending_order/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/list_filtering/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/list_filtering/list_filtering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,8 @@
       <recent name="D:\PyCharm Projects\CodeWars2\CodeWarsChallengeFolder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.youre_square">
-    <configuration name="disEmVowel_Trolls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.descending_order">
+    <configuration name="descending_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/disEmVowel_Trolls" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/descending_order" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/disEmVowel_Trolls/disEmVowel_Trolls.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/descending_order/descending_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="highest_lowest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_filtering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/highest_lowest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/list_filtering" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/highest_lowest/highest_lowest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/list_filtering/list_filtering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.descending_order" />
+        <item itemvalue="Python.list_filtering" />
         <item itemvalue="Python.youre_square" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.get_middle_char" />
-        <item itemvalue="Python.highest_lowest" />
-        <item itemvalue="Python.disEmVowel_Trolls" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658154599074</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658158799716</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658158799716</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
