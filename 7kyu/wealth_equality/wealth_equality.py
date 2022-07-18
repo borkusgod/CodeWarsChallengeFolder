@@ -58,6 +58,9 @@ print('\n')
 print(redistribute_wealth(arr5))
 print('\n')
 
+# below is answer but I want to move on. It feels like it would just be easier
+# to start something else at this point then get this pile working
+
 '''
 n0v4s3c — Today at 7:01 PM
 In c++ you would pass the argument by reference to modify to the original array. 

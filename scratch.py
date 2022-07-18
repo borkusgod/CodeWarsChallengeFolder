@@ -1,18 +1,19 @@
-# convert to int if decimal is 0
+# n0v4s3c — Today at 7:01 PM
+# In c++ you would pass the argument by reference to modify to the original array.
+# In python, I think you use [:] so in your function do this
+# wealth[:] = modifiedList
+# Where modifiedList is your modified list.
+#
+# n0v4s3c — Today at 7:12 PM
+# /run python
 
-a = 5.5
-b = 5.0
 
-print(type(b))
+def redistribute(wealth):
+    wealth[:] = [sum(wealth)/len(wealth) for i in range(len(wealth))]
 
-temp_conv = str(b)
-print(type(temp_conv))
 
-x = temp_conv.split('.')
-if x[1] == '0':
-    print('true')
-    conv_b = int(b)
-    b = conv_b
+list = [5, 6, 10]
+redistribute(list)
+print(list)
 
-print(type(b))
-print(b)
+
