@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
+      <change afterPath="$PROJECT_DIR$/7kyu/get_middle_char/get_middle_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/get_middle_char/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/highest_lowest/highest_lowest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/highest_lowest/instructions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7kyu/disEmVowel_Trolls/disEmVowel_Trolls.py" beforeDir="false" afterPath="$PROJECT_DIR$/7kyu/disEmVowel_Trolls/disEmVowel_Trolls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
       <recent name="D:\PyCharm Projects\CodeWars2\CodeWarsChallengeFolder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.disEmVowel_Trolls">
+  <component name="RunManager" selected="Python.highest_lowest">
     <configuration name="disEmVowel_Trolls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="round_to_closest_to_ten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="highest_lowest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/round_to_closest_to_ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/highest_lowest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/round_to_closest_to_ten/round_to_closest_to_ten.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/highest_lowest/highest_lowest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.highest_lowest" />
         <item itemvalue="Python.disEmVowel_Trolls" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.vowel_count" />
         <item itemvalue="Python.wealth_equality" />
-        <item itemvalue="Python.round_to_closest_to_ten" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658143327756</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658148530243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658148530243</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
