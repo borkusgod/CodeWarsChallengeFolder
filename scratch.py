@@ -1,10 +1,4 @@
-import math
+ints = (-5, 5)
 
-# Taking the input from user
-number = int(input("Enter the Number"))
-
-root = math.sqrt(number)
-if int(root + 0.5) ** 2 == number:
-    print(number, "is a perfect square")
-else:
-    print(number, "is not a perfect square")
+for each in range(ints[0], (ints[1] + 1)):
+    print(each)
