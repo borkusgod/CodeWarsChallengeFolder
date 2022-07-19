@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7kyu/coupon_code/coupon_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/7kyu/coupon_code/coupon_code.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658248047719</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658252253539</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658252253539</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
