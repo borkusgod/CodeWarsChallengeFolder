@@ -2,13 +2,16 @@ import datetime
 
 
 def check_coupon(entered_code, correct_code, current_date, expiration_date):
-    int_check_ent = int(entered_code)
-    int_check_cor = int(correct_code)
     code_check = True
     date_check = True
-    if int_check_ent != int_check_cor:
+    invalid_types = ['0', True, False]
+    if entered_code in invalid_types or correct_code in invalid_types:
+        code_check = False
+
+    if entered_code != correct_code:
         code_check = False
     x = datetime.datetime.now()
+
     # print(x)
     # print(current_date)
     # print(expiration_date)
@@ -97,3 +100,6 @@ print('fifth run')
 print(check_coupon("123", "123", "July 2, 2015", "July 2, 2014"))
 print('\n')
 
+print('sixth run')
+print(check_coupon("123a", "123", "July 2, 2015", "July 2, 2015"))
+print('\n')
