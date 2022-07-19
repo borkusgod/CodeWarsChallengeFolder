@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
-      <change afterPath="$PROJECT_DIR$/7kyu/exes_ohs/exes_ohs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/exes_ohs/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/shortest_word/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/shortest_word/shortest_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/sum_of_numbers/instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/sum_of_numbers/sum_of_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658160996816</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658172799999</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658172799999</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
