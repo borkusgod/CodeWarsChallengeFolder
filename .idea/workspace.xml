@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go" />
+    <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
+      <change beforePath="$PROJECT_DIR$/5kyu/calculating_with_funcs/calculuating_with_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/5kyu/calculating_with_funcs/calculuating_with_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5kyu/weight_list/weight_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/5kyu/weight_list/weight_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kyu/find_outlier/find_outlier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/6kyu/find_outlier/find_outlier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kyu/remove_in_paren/remove_in_paren.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/6kyu/remove_in_paren/remove_in_paren.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kyu/spinWords/spinWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/6kyu/spinWords/spinWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/capAllWords/capAllWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/capAllWords/capAllWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/categorize_new_member/categorize_new_member.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/categorize_new_member/categorize_new_member.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/categorize_new_member/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/categorize_new_member/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/coupon_code/coupon_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/coupon_code/coupon_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/coupon_code/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/coupon_code/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/descending_order/descending_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/descending_order/descending_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/descending_order/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/descending_order/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/disEmVowel_Trolls/disEmVowel_Trolls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/disEmVowel_Trolls/disEmVowel_Trolls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/disEmVowel_Trolls/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/disEmVowel_Trolls/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/exes_ohs/exes_ohs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/exes_ohs/exes_ohs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/exes_ohs/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/exes_ohs/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/find_the_capital/find_the_capital.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/find_the_capital/find_the_capital.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/find_the_divisors/find_the_divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/find_the_divisors/find_the_divisors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/find_the_divisors/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/find_the_divisors/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/friend_or_foe/friend_or_foe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/friend_or_foe/friend_or_foe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/friend_or_foe/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/friend_or_foe/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/get_middle_char/get_middle_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/get_middle_char/get_middle_char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/get_middle_char/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/get_middle_char/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/highest_lowest/highest_lowest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/highest_lowest/highest_lowest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/highest_lowest/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/highest_lowest/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/highest_profit/highest_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/highest_profit/highest_profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/highest_profit/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/highest_profit/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/input_odd_or_even/input_odd_or_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/input_odd_or_even/input_odd_or_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/list_filtering/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/list_filtering/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/list_filtering/list_filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/list_filtering/list_filtering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/mumbling/mumbling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/mumbling/mumbling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/people_on_bus/people_on_bus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/people_on_bus/people_on_bus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/printer_errors/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/printer_errors/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/printer_errors/printer_errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/printer_errors/printer_errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/remove_min/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/remove_min/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/remove_min/remove_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/remove_min/remove_min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/reverse_words/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/reverse_words/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/reverse_words/reverse_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/reverse_words/reverse_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/reverse_words/reverse_words2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/reverse_words/reverse_words2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/reverse_words/reverse_words3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/reverse_words/reverse_words3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/round_to_closest_to_ten/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/round_to_closest_to_ten/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/round_to_closest_to_ten/round_to_closest_to_ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/round_to_closest_to_ten/round_to_closest_to_ten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/shortest_word/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/shortest_word/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/shortest_word/shortest_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/shortest_word/shortest_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/squareDigits/squareDigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/squareDigits/squareDigits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/string_ends_with/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/string_ends_with/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/string_ends_with/string_ends_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/string_ends_with/string_ends_with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/sum_first_nth_series/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/sum_first_nth_series/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/sum_first_nth_series/sum_first_nth_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/sum_first_nth_series/sum_first_nth_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/sum_of_numbers/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/sum_of_numbers/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/sum_of_numbers/sum_of_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/sum_of_numbers/sum_of_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/two_lowest_from_set/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/two_lowest_from_set/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/two_lowest_from_set/two_lowest_from_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/two_lowest_from_set/two_lowest_from_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/verify_pin/verify_pin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/verify_pin/verify_pin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/verify_pin/verify_pin2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/verify_pin/verify_pin2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/vowel_count/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/vowel_count/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/vowel_count/vowel_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/vowel_count/vowel_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/wealth_equality/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/wealth_equality/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/wealth_equality/wealth_equality.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/wealth_equality/wealth_equality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/youre_square/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/youre_square/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7kyu/youre_square/youre_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/youre_square/youre_square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/case_check/case_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/case_check/case_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/conv_string2num/conv_string2num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/conv_string2num/conv_string2num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/conv_string2num/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/conv_string2num/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/convert_bool_to_string/convert_bool_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/convert_bool_to_string/convert_bool_to_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/convert_bool_to_string/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/convert_bool_to_string/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/correct_char_mistakes/correct_char_mistakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/correct_char_mistakes/correct_char_mistakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/correct_char_mistakes/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/correct_char_mistakes/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/count_sheeps/counting_sheep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/count_sheeps/counting_sheep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/count_sheeps/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/count_sheeps/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/div_by_x_and_y/div_by_x_and_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/div_by_x_and_y/div_by_x_and_y.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/enough_space/enough_space.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/enough_space/enough_space.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/enough_space/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/enough_space/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/find_position/find_position.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/find_position/find_position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/find_position/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/find_position/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/gonna_survive/gonna_survive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/gonna_survive/gonna_survive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/gonna_survive/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/gonna_survive/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/hex2decimal/hex2decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/hex2decimal/hex2decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/is_date_today/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/is_date_today/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/is_date_today/is_date_today.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/is_date_today/is_date_today.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/is_my_tail/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/is_my_tail/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/is_my_tail/is_my_tail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/is_my_tail/is_my_tail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/odd_below_n/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/odd_below_n/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/odd_below_n/odd_below2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/odd_below_n/odd_below2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/odd_below_n/odd_below_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/odd_below_n/odd_below_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/opposite_number/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/opposite_number/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/opposite_number/opposite_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/opposite_number/opposite_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/powers_of_2/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/powers_of_2/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/powers_of_2/powers_of_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/powers_of_2/powers_of_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/return_negative/return_negative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/return_negative/return_negative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/reverse_list_order/instruction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/reverse_list_order/instruction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/reverse_list_order/reverse_list_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/reverse_list_order/reverse_list_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/school_paperwork/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/school_paperwork/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/school_paperwork/school_paperwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/school_paperwork/school_paperwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/set_alarm/instruction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/set_alarm/instruction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/set_alarm/set_alarm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/set_alarm/set_alarm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sort_my_books/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sort_my_books/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sort_my_books/sort_my_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sort_my_books/sort_my_books.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sum_arrays/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sum_arrays/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sum_arrays/sum_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sum_arrays/sum_arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sum_without_highest_lowest/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sum_without_highest_lowest/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/sum_without_highest_lowest/sum_without_highest_lowest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/8kyu/sum_without_highest_lowest/sum_without_highest_lowest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,21 +129,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/CodeWarsChallengeFolder/7kyu/reverse_words",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeWarsChallengeFolder/7kyu/reverse_words&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CodeWarsChallengeFolder\7kyu\reverse_words" />
       <recent name="D:\PyCharm Projects\CodeWars2\CodeWarsChallengeFolder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeWarsChallengeFolder\Python" />
       <recent name="D:\PyCharm Projects\CodeWars2\CodeWarsChallengeFolder" />
     </key>
   </component>
@@ -316,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658252253539</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658260236859</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658260236859</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
