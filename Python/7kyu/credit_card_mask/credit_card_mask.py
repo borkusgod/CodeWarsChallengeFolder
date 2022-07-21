@@ -7,4 +7,4 @@ cc2 = 4450008092914556
 string_test1 = 'reeeeeaaaaaaalllllllllyyyyyyyyyyyyyy'
 string_test2 = 'skippyTheSpaceCowboy'
 
-maskify()
+maskify(cc1)
