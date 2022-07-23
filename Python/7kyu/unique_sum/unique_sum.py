@@ -1,5 +1,5 @@
 def unique_sum(lst):
-    pass
+    return sum(set(lst)) if lst else None
 
 
 list1 = [1, 2, 3]
