@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a1e8-669f-47c9-ab6a-10f7003779a3" name="Changes" comment="Copied from previous project into new with Git setup from get go">
+      <change afterPath="$PROJECT_DIR$/Python/7kyu/unique_sum/instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWarsChallengeFolder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWarsChallengeFolder.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/7kyu/credit_card_mask/credit_card_mask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/7kyu/credit_card_mask/credit_card_mask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
       <recent name="D:\PyCharm Projects\CodeWars2\CodeWarsChallengeFolder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.friend_or_foe">
+  <component name="RunManager" selected="Python.credit_card_mask">
     <configuration name="coupon_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,19 +81,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_the_divisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="credit_card_mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsChallengeFolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/find_the_divisors" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\CompletePythonDeveloper2022_ZeroToMastery\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/7kyu/credit_card_mask" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/find_the_divisors/find_the_divisors.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/7kyu/credit_card_mask/credit_card_mask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.credit_card_mask" />
         <item itemvalue="Python.friend_or_foe" />
         <item itemvalue="Python.coupon_code" />
         <item itemvalue="Python.remove_min" />
         <item itemvalue="Python.highest_profit" />
-        <item itemvalue="Python.find_the_divisors" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658261008114</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Copied from previous project into new with Git setup from get go">
+      <created>1658424745454</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658424745454</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

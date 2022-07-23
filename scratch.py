@@ -1,4 +1,3 @@
-ints = (-5, 5)
+list = ['test1', 'test2']
 
-for each in range(ints[0], (ints[1] + 1)):
-    print(each)
+for each in range(10)
