@@ -5,7 +5,7 @@ def ascend_descend(length, minimum, maximum):
     if len(a_and_b) == 1:
         return ''.join(map(str,a_and_b * length))
     str_a_and_b = ''.join(map(str, a_and_b[:-1])) * length
-    return str_a_and_b[:length]
+    return str_a_and_b[:length]e
 
 
 print(ascend_descend(5, 1, 3))
